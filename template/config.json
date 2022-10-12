@@ -1,0 +1,16 @@
+{
+  "app_id": "orderingwebreact",
+  "project": "blumenbote",
+  "app_name":"BlumenBote  - Blumen einfach liefern lassen",
+  "api": {
+    "url": "https://apiv4.ordering.co",
+    "language": "en",
+    "version": "v400"
+  },
+  "socket": {
+    "url": "https://socket.ordering.co"
+  },
+  "store_android_id": "",
+  "store_apple_id": "",
+  "store_kindle_id": ""
+}
